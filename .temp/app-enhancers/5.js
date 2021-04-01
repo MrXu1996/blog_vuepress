@@ -1,0 +1,1 @@
+export { default } from "G:\\myproject\\myblog\\blog_vuepress\\xzh_blog\\node_modules\\@vuepress-reco\\vuepress-plugin-comments\\bin\\enhanceAppFile.js"

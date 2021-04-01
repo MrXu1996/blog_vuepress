@@ -1,0 +1,19 @@
+{
+  "name": "xzh_blog",
+  "version": "1.0.0",
+  "author": "xzh",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build ."
+  },
+  "devDependencies": {
+    "vuepress": "1.7.1",
+    "vuepress-plugin-dynamic-title": "^1.0.0",
+    "vuepress-theme-reco": "1.6.1"
+  },
+  "description": "个人博客",
+  "dependencies": {
+    "vuepress-plugin-code-copy": "^1.0.6",
+    "vuepress-plugin-reading-progress": "^1.0.10"
+  }
+}
